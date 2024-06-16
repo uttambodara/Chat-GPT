@@ -1,6 +1,5 @@
-
 <p align="center">
-  <h1 align="center">ChatGPT</h1>
+  <h1 align="center">ChatGP!</h1>
   <p align="center">ChatGPT Desktop Application (Mac, Windows and Linux)</p>
 </p>
 
